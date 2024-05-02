@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SupermarketApp</string>
+    <string name="tvHome">Home</string>
+    <string name="tvAddProduct">Añadir producto</string>
+    <string name="ivLastProduct">Imagen del producto</string>
+    <string name="tvTopProduct">Top productos</string>
+    <string name="tvProducts">Todos los productos</string>
+    <string name="ivProduct">Imagen de producto</string>
+    <string name="tilName">Name</string>
+</resources>

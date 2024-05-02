@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022858354684",
+    "project_id": "firestoreavanzadoxml",
+    "storage_bucket": "firestoreavanzadoxml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022858354684:android:77c544c58427e4a0415c79",
+        "android_client_info": {
+          "package_name": "com.rubenmackin.supermarketapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQvHwoMUpx4mxjlW2L-itHutyYVPq1Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
